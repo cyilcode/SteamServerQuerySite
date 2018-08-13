@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamServerQueryAPI", "SteamServerQueryAPI\SteamServerQueryAPI.csproj", "{861F1643-1198-42E1-8F84-A1674869ACFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861F1643-1198-42E1-8F84-A1674869ACFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861F1643-1198-42E1-8F84-A1674869ACFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861F1643-1198-42E1-8F84-A1674869ACFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861F1643-1198-42E1-8F84-A1674869ACFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199DC01B-33ED-4208-873F-C106A136A770}
+	EndGlobalSection
+EndGlobal
